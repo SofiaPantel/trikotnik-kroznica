@@ -2,7 +2,7 @@
 
 Projektna naloga obravnava geometrijski objekt trikotnik ter njegovo včrtano in očrtano krožnico.
 Naloga je bila pripravljena pri predmetu Računalniška orodja v matematiki 2025/26 v 1.letniku na Fakulteti za matematiko in fiziko, Univerzo v Ljubljani. 
-Pri projektu uporeabljen program Wolfram Mathematica.
+Pri projektu uporabljen program Wolfram Mathematica.
 
 ## Opis projekta
 
