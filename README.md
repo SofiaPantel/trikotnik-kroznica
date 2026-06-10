@@ -37,6 +37,6 @@ Hkrati se samodejno posodablja tudi grafični prikaz trikotnika ter obeh krožni
 
 ## Povezava do aplikacije
 
-
+[Trikotnik in včrtana ter očrtana krožnica.nb](./Trikotnik%20in%20včrtana%20ter%20očrtana%20krožnica.nb)
 
 Pripravila: Sofiia Panteleeva
