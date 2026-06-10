@@ -34,3 +34,9 @@ Uporabnik lahko spreminja koordinate oglišč trikotnika, program pa sproti prer
 - polmer očrtane krožnice.
 
 Hkrati se samodejno posodablja tudi grafični prikaz trikotnika ter obeh krožnic.
+
+## Povezava do aplikacije
+
+
+
+Pripravila: Sofiia Panteleeva
