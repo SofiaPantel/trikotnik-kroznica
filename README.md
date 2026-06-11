@@ -35,9 +35,9 @@ Uporabnik lahko spreminja koordinate oglišč trikotnika, program pa sproti prer
 
 Hkrati se samodejno posodablja tudi grafični prikaz trikotnika ter obeh krožnic.
 
-## Povezava do aplikacije
+## Povezava do projekta
 
-[Trikotnik in včrtana ter očrtana krožnica](./Trikotnik%20in%20včrtana%20ter%20očrtana%20krožnica.nb)
+[Trikotnik in včrtana ter očrtana krožnica]([./Trikotnik%20in%20včrtana%20ter%20očrtana%20krožnica.nb)](https://github.com/SofiaPantel/trikotnik-kroznica/blob/main/Trikotnik%20in%20včrtana%20ter%20očrtana%20krožnica.nb))
 
 ## Posnetek
 
