@@ -39,4 +39,9 @@ Hkrati se samodejno posodablja tudi grafični prikaz trikotnika ter obeh krožni
 
 [Trikotnik in včrtana ter očrtana krožnica](./Trikotnik%20in%20včrtana%20ter%20očrtana%20krožnica.nb)
 
+## Posnetek
+
+https://github.com/SofiaPantel/trikotnik-kroznica/releases/tag/v1.0
+
+
 Pripravila: Sofiia Panteleeva
